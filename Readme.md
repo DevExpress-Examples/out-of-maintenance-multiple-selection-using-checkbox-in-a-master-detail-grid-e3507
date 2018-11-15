@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CheckMarkSelection.cs](./CS/E3507/CheckMarkSelection.cs) (VB: [CheckMarkSelection.vb](./VB/E3507/CheckMarkSelection.vb))
+* [DataSet1.cs](./CS/E3507/DataSet1.cs) (VB: [DataSet1.vb](./VB/E3507/DataSet1.vb))
+* [DetailKey.cs](./CS/E3507/DetailKey.cs) (VB: [DetailKey.vb](./VB/E3507/DetailKey.vb))
+* [Form1.cs](./CS/E3507/Form1.cs) (VB: [Form1.vb](./VB/E3507/Form1.vb))
+* [Program.cs](./CS/E3507/Program.cs) (VB: [Program.vb](./VB/E3507/Program.vb))
+<!-- default file list end -->
 # Multiple selection using checkbox in a Master-Detail grid
 
 
